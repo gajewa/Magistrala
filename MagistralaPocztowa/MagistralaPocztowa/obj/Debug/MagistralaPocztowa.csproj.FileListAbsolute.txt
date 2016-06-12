@@ -1,0 +1,6 @@
+C:\Users\HP\Documents\Visual Studio 2015\Projects\MagistralaPocztowa\MagistralaPocztowa\bin\Debug\MagistralaPocztowa.exe.config
+C:\Users\HP\Documents\Visual Studio 2015\Projects\MagistralaPocztowa\MagistralaPocztowa\obj\Debug\MagistralaPocztowa.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\MagistralaPocztowa\MagistralaPocztowa\obj\Debug\MagistralaPocztowa.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\MagistralaPocztowa\MagistralaPocztowa\bin\Debug\MagistralaPocztowa.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\MagistralaPocztowa\MagistralaPocztowa\bin\Debug\MagistralaPocztowa.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\MagistralaPocztowa\MagistralaPocztowa\obj\Debug\MagistralaPocztowa.csprojResolveAssemblyReference.cache
