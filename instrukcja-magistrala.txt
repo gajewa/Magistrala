@@ -1,0 +1,7 @@
+Program symuluje magistralê (sortownie) pocztow¹.
+
+Mo¿emy dodaæ do magazynu przesylke (jedna z klas List/Paczka/Specjalne które dziedzicz¹ po klasie wirtualnej Przesylka). Magazyn.cs jest klas¹ która zawiera kolekcjê (List<Przesylka>) zawieraj¹c¹ obecne w magazynie przesylki. 
+
+Mozemy za jej pomoc¹ dodaæ paczkê, wyswietlic zawartosc magazynu, wys³aæ paczkê do odbiorcy (usun¹æ z listy listy i dodaæ do osobnej listy przeznaczonej do historii któr¹ mo¿emy potem wyswietlic).
+
+Mozemy osobno wypisac tylko paczki, specjalne badz listy. Kazda przesylka otrzymuje losowy tracking number z danego przedzialu paczka od 0 do 500, specjalne od 1000 do 9999, List od 501 do 999 za pomoc¹ którego mo¿emy potem wyszukaæ przesy³kê.
